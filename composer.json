@@ -1,7 +1,7 @@
 {
     "name": "application",
     "description": "The Test App",
-    "keywords": ["Test", "APP PHP"],
+    "keywords": ["APP","PHP"],
     "license": "MIT",
     "type": "project",
     "autoload": {
